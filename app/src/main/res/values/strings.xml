@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Set Birthday</string>
+    <string name="set">SET</string>
+    <string name="show_birth">Birthday will be shown here</string>
+</resources>
